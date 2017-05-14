@@ -1,0 +1,5 @@
+C:\Users\Rakesh\Documents\Visual Studio 2017\Projects\PTC\PTCData\bin\Debug\PTCData.dll
+C:\Users\Rakesh\Documents\Visual Studio 2017\Projects\PTC\PTCData\bin\Debug\PTCData.pdb
+C:\Users\Rakesh\Documents\Visual Studio 2017\Projects\PTC\PTCData\obj\Debug\PTCData.dll
+C:\Users\Rakesh\Documents\Visual Studio 2017\Projects\PTC\PTCData\obj\Debug\PTCData.pdb
+C:\Users\Rakesh\Documents\Visual Studio 2017\Projects\PTC\PTCData\obj\Debug\PTCData.csprojResolveAssemblyReference.cache
